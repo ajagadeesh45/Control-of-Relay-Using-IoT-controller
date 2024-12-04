@@ -68,13 +68,14 @@ delay(interval); */
 
 ## CIRCUIT DIAGRAM:
 
-![Screenshot (44)](https://github.com/user-attachments/assets/9d354641-e385-455e-b2f4-b0ea44a8c27a)
 
+
+![Screenshot (50)](https://github.com/user-attachments/assets/dadb7c1b-537a-4e0f-a0c9-00c437080280)
 
 
 ## OUTPUT:
+![Screenshot (51)](https://github.com/user-attachments/assets/df7c75f4-d2ee-4755-add0-c12792ae5ce5)
 
-![Screenshot (44)](https://github.com/user-attachments/assets/314c31c9-5bed-43f0-a53f-d41e1c7fa51a)
 
 
 ## RESULT:
